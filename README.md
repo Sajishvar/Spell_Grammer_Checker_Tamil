@@ -6,6 +6,4 @@ The Spell checking part checks the spelling errors.It will also provide auto cor
 
 This model has been developed specifically for Tamil language by considering its complex script and semantic nuances.
                
- 
- 
- 
+
